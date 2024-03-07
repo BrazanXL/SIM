@@ -1,0 +1,252 @@
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.MDIPrincipal.resources
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\BouncyCastle.Crypto.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Google.Protobuf.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Compression.LZ4.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Hash.xxHash.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\MySql.Data.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\System.Buffers.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\System.Memory.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\System.Numerics.Vectors.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Ubiety.Dns.Core.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Zstandard.Net.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Google.Protobuf.pdb
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Google.Protobuf.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Compression.LZ4.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Hash.xxHash.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\MySql.Data.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\System.Buffers.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\System.Memory.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\System.Numerics.Vectors.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormUsuarios.resources
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\BouncyCastle.Crypto.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\Google.Protobuf.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Compression.LZ4.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Hash.xxHash.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\MySql.Data.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\System.Buffers.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\System.Memory.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\System.Numerics.Vectors.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\Ubiety.Dns.Core.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\Zstandard.Net.dll
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\Google.Protobuf.pdb
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\Google.Protobuf.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Compression.LZ4.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\K4os.Hash.xxHash.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\MySql.Data.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\System.Buffers.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\System.Memory.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\System.Numerics.Vectors.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormUsuarios.resources
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.MDIPrincipal.resources
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormProveedores.resources
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormProveedores.resources
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormProductos.resources
+D:\VisualStudioProjects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormProductos.resources
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormVentas.resources
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FormLogin.resources
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormReportes.resources
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormGenerarReporte.resources
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\EnvDTE.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\stdole.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\Microsoft.MSXML.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.cache
+D:\VisualStudioProyects\SistemaVentas\SistemaVentas\obj\Debug\RdlCompile.compiled
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\SistemaVentas.exe
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\SistemaVentas.pdb
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\BouncyCastle.Crypto.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Google.Protobuf.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\K4os.Compression.LZ4.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\K4os.Hash.xxHash.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\MySql.Data.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Buffers.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Memory.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Numerics.Vectors.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\EnvDTE.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\stdole.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.MSXML.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Google.Protobuf.pdb
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Google.Protobuf.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\K4os.Compression.LZ4.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\K4os.Hash.xxHash.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\MySql.Data.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Buffers.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Memory.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Numerics.Vectors.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\EnvDTE.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.FormLogin.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormGenerarReporte.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormProductos.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormProveedores.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormReportes.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.FormUsuarios.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.MDIPrincipal.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.Vistas.FormVentas.resources
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.exe
+E:\Portafoleo\Sistema Inventario\SistemaVentas\obj\Debug\SistemaVentas.pdb
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\x86\SqlServerSpatial160.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\x64\SqlServerSpatial160.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.IO.Pipelines.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ZstdSharp.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.IO.Pipelines.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+E:\Portafoleo\Sistema Inventario\SistemaVentas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
